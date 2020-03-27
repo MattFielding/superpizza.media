@@ -5,6 +5,7 @@ before_script:
   - npm install @11ty/eleventy -g
 script: eleventy --pathprefix="/eleventy-base-blog/"
 deploy:
+  fqdn: www.superpizza.media
   local-dir: _site
   provider: pages
   skip-cleanup: true
@@ -12,4 +13,4 @@ deploy:
   keep-history: true
   on:
     branch: master
-    
+

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Super Pizza</title>
+	<title>Super Pizza Media</title>
 	<subtitle>Welcome to Super Pizza Media, here we have all the information about our characters in the comics.</subtitle>
 	
 	<link href="https://www.superpizza.media/feed/feed.xml" rel="self"/>

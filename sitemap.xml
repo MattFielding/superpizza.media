@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://myurl.com/posts/firstpost/</loc>
+    <loc>https://www.superpizza.media/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/posts/secondpost/</loc>
+    <loc>https://www.superpizza.media/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/posts/thirdpost/</loc>
+    <loc>https://www.superpizza.media/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/posts/fourthpost/</loc>
+    <loc>https://www.superpizza.media/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/about/</loc>
-    <lastmod>2020-03-27</lastmod>
+    <loc>https://www.superpizza.media/about/</loc>
+    <lastmod>2020-03-28</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/posts/</loc>
-    <lastmod>2020-03-27</lastmod>
+    <loc>https://www.superpizza.media/posts/</loc>
+    <lastmod>2020-03-28</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/</loc>
-    <lastmod>2020-03-27</lastmod>
+    <loc>https://www.superpizza.media/</loc>
+    <lastmod>2020-03-28</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/page-list/</loc>
-    <lastmod>2020-03-27</lastmod>
+    <loc>https://www.superpizza.media/page-list/</loc>
+    <lastmod>2020-03-28</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/</loc>
-    <lastmod>2020-03-27</lastmod>
+    <loc>https://www.superpizza.media/tags/</loc>
+    <lastmod>2020-03-28</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/another-tag/</loc>
-    <lastmod>2020-03-27</lastmod>
+    <loc>https://www.superpizza.media/tags/another-tag/</loc>
+    <lastmod>2020-03-28</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/second-tag/</loc>
-    <lastmod>2020-03-27</lastmod>
+    <loc>https://www.superpizza.media/tags/second-tag/</loc>
+    <lastmod>2020-03-28</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/number-2/</loc>
-    <lastmod>2020-03-27</lastmod>
+    <loc>https://www.superpizza.media/tags/number-2/</loc>
+    <lastmod>2020-03-28</lastmod>
   </url>
 </urlset>

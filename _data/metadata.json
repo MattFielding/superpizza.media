@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Super Pizza",
+  "url": "https://www.superpizza.media/",
+  "description": "Welcome to Super Pizza Media, here we have all the information about our characters in the comics.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Welcome to Super Pizza Media, here we have all the information about our characters in the comics.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://www.superpizza.media/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Alex Fielding",
+    "email": "alex@aim4.co.uk"
   }
 }
